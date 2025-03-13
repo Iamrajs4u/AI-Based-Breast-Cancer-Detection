@@ -1,0 +1,2 @@
+# AI-Based Breast Cancer Detection
+ This project enhances breast cancer diagnosis accuracy using meta-heuristic algorithms like GA, PSO, and SA for effective feature selection. It integrates machine learning classifiers to evaluate selected features and achieve high diagnostic performance. The system significantly reduces dimensionality while maintaining high accuracy and improving generalization.
